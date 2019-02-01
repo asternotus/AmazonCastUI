@@ -25,5 +25,9 @@
     <string name="settings_cold_theme">Cold</string>
     <string name="settings_gray_theme">Gray</string>
 
+    <string name="cast_start">Start</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_stop">Stop</string>
+
     <string name="menu_settings">Settings</string>
 </resources>
